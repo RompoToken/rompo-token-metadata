@@ -1,0 +1,11 @@
+{
+  "name": "ROMPO",
+  "symbol": "ROMPO",
+  "description": "ROMPO is a utility token on the Solana blockchain, created for community and experimental use cases.",
+  "image": "https://raw.githubusercontent.com/RompoToken/rompo-token-metadata/main/assets/solana/drpAgdPzFgch3j6FGbn5LtZYiJ2Xt55owoJqaJVYeUD/logo.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://rompo.app",
+    "twitter": "https://twitter.com/rompo_token"
+  }
+}
